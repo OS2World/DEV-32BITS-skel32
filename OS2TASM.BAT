@@ -1,0 +1,3 @@
+D:\BORLTEMP\TASM /OI %1.ASM,,%1 >%1.ERR
+
+
